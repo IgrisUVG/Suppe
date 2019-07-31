@@ -74,7 +74,7 @@
 }
 
 #res:active {
-    color: darkred;
+    /*color: darkred;*/
     font-size: 3.9em;
 }
 
@@ -85,6 +85,8 @@
 ul {
     /*font-size: 1.5em;*/
     list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
 }
 
 a {
