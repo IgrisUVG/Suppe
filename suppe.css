@@ -79,6 +79,7 @@
 }
 
 #res_list {
+    display: inline-block;
     /*opacity: 0;*/
 }
 
