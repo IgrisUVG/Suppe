@@ -79,7 +79,7 @@
 }
 
 #res_list {
-    opacity: 0;
+    /*opacity: 0;*/
 }
 
 ul {
@@ -89,13 +89,15 @@ ul {
     padding-left: 0;
 }
 
-a {
+li {
+    cursor: pointer;
     color: #2e6da4;
-    text-decoration: none;
+    /*text-decoration: none;*/
 }
 
-a:hover {
+li:hover {
     color: #204d74;
+    background-color: #E5F5FF;
 }
 
 #ingred {
